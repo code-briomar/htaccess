@@ -1,2 +1,2 @@
 # htaccess
-htaccess documentation
+htaccess documentation in the htaccess.md file
